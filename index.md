@@ -41,13 +41,13 @@ The latest version of the PiSDR (v3.0) supports every Raspberry Pi model (Zero, 
 ### Download
 Since the download file is quite large, we created a poll of mirrors to ensure the fastest possible download. Click in the button below to be automatically redirected to the fastest mirror for you.
 
-[Download Latest Version](https://rosetta.luigifreitas.me/public/pisdr/v2.1/pisdr_v2.1.tar.xz){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } 
+[Download Latest Version](https://pisdr.nyc3.cdn.digitaloceanspaces.com/v3.0/pisdr_v3.0.tar.xz){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } 
 
 #### Download Mirrors
 
 | Status       | Server Location |Version  | TAR | ZIP |
 |:-------------|:----------------|:--|:---|:----|
-| Official | NYC | 2.1 | [Download](https://rosetta.luigifreitas.me/public/pisdr/v2.1/pisdr_v2.1.tar.xz) | [Download](https://rosetta.luigifreitas.me/public/pisdr/v2.1/pisdr_v2.1.zip) |
+| Official | Edge Deployment | 3.0 | [Download](https://pisdr.nyc3.cdn.digitaloceanspaces.com/v3.0/pisdr_v3.0.tar.xz) | [Download](https://pisdr.nyc3.cdn.digitaloceanspaces.com/v3.0/pisdr_v3.0.zip) |
 | [Collaborator](https://twitter.com/w4www_brian/status/1111335136929464320) | US-East | 2.1 | [Download](http://w4www.s3-us-east-2.amazonaws.com/pu4spy-pisdr/v2.1/pisdr_v2.1.tar.xz) | [Download](http://w4www.s3-us-east-2.amazonaws.com/pu4spy-pisdr/v2.1/pisdr_v2.1.zip) |
 | [Collaborator](https://twitter.com/sam210723/status/1131846681916370945) | Singapore | 2.0 | [Download](https://vksdr.sgp1.digitaloceanspaces.com/PiSDR/pisdr_v2.tar.xz) | [Download](https://vksdr.sgp1.digitaloceanspaces.com/PiSDR/pisdr_v2.fixed.zip) | 
 
