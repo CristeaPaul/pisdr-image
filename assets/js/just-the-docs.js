@@ -284,10 +284,23 @@ function pageFocus() {
   mainContent.focus();
 }
 
+// Set theme according to user preferences
+
+function setTheme() {
+  const cssFile = document.querySelector('[rel="stylesheet"]')
+  const originalCssRef = cssFile.getAttribute('href')
+  const darkModeCssRef = originalCssRef.replace('just-the-docs.css', 'dark-mode-preview.css')
+ 
+  if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    cssFile.setAttribute('href', darkModeCssRef)
+  }
+}
+
 // Document ready
 
 jtd.onReady(function(){
   initNav();
+  setTheme();
   pageFocus();
   if (typeof lunr !== 'undefined') {
     initSearch();
