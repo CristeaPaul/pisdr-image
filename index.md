@@ -64,7 +64,7 @@ This image can be used as a standard Raspbian desktop environment. The HDMI Outp
 **Warning: It is important to change the credentials after the first login to ensure your security.**
 
 #### SSH
-To access the system with this option, you will need an SSH client. This is built-in inside the Command-Line of most operating systems (Linux, macOS and Windows 10). As a GUI alternative,  we recommend using the PuTTY application available for Linux and Windows.
+To access the system with this option, you will need an SSH client. This is built-in inside the Command-Line of most operating systems (Linux, macOS and Windows 10). As a GUI alternative, we recommend using the PuTTY application available for Linux and Windows.
 
 ```bash
 $ ssh pisdr@pisdr.local
@@ -72,7 +72,7 @@ Password: raspberry
 ```
 
 #### VNC
-The remote desktop can be accessed using any VNC client. The credentials are the same from the SSH. _Note: The Remmina Client is known to be incompatible with this VNC Server._
+The remote desktop can be accessed using any VNC client. The credentials are the same from the SSH. The default screen resolution is set to 720p. This setting can be easily changed inside the `raspi-config` menu (Advanced > Resolution).  _Note: The Remmina Client is known to be incompatible with this VNC Server._
 
 ---
 
