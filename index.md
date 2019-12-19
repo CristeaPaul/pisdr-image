@@ -41,7 +41,7 @@ The latest version of the PiSDR (v3.0) supports every Raspberry Pi model (Zero, 
 ### Download
 Since the download file is quite large, we created a poll of mirrors to ensure the fastest possible download. Click in the button below to be automatically redirected to the fastest mirror for you.
 
-[Download Latest Version](http://bit.ly/2Pr6n06){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } 
+[Download Latest Version](http://bit.ly/2PFAAbS){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } 
 
 #### Download Mirrors
 
