@@ -47,7 +47,7 @@ Since the download file is quite large, we created a poll of mirrors to ensure t
 
 | Status       | Server Location |Version  | TAR | ZIP |
 |:-------------|:----------------|:--|:---|:----|
-| [Collaborator](https://twitter.com/sam210723/status/1131846681916370945) | Singapore | 3.0 | [Download](http://bit.ly/2PyiZ5U) | [Download](http://bit.ly/2M8jxwW) | 
+| [Collaborator](https://twitter.com/sam210723/status/1131846681916370945) | Singapore | 3.0 | [Download](http://bit.ly/2PyiZ5U) | [Download](http://bit.ly/2M8jxwW) |
 | [Collaborator](https://twitter.com/w4www_brian/status/1111335136929464320) | US-East | 2.1 | [Download](http://w4www.s3-us-east-2.amazonaws.com/pu4spy-pisdr/v2.1/pisdr_v2.1.tar.xz) | [Download](http://w4www.s3-us-east-2.amazonaws.com/pu4spy-pisdr/v2.1/pisdr_v2.1.zip) |
 <!---
 | Official | US-East | 3.0 | [Download](http://bit.ly/2Pr6n06) | [Download](http://bit.ly/2YSj1IE) |
