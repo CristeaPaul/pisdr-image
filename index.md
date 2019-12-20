@@ -48,6 +48,7 @@ Since the download file is quite large, we created a poll of mirrors to ensure t
 | Status       | Server Location |Version  | TAR | ZIP |
 |:-------------|:----------------|:--|:---|:----|
 | [Collaborator](https://twitter.com/sam210723/status/1131846681916370945) | Singapore | 3.0 | [Download](http://bit.ly/2PyiZ5U) | [Download](http://bit.ly/2M8jxwW) |
+| Official | Americas | 3.0 | [Download](http://bit.ly/2MbIxDE) | [Download](http://bit.ly/36OUlDC) |
 
 ### Installation
 The installation process is the same as the vanilla Raspbian. You will need a MicroSD card with at least 16GB of capacity. To transfer the image file to the memory card we recommend the open-source and multi-platform [balenaEtcher](https://www.balena.io/etcher/).
