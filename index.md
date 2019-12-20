@@ -42,13 +42,15 @@ The latest version of the PiSDR (v3.0) supports every Raspberry Pi model (Zero, 
 Since the download file is quite large, we created a poll of mirrors to ensure the fastest possible download. Click in the button below to be automatically redirected to the fastest mirror for you.
 
 [Download Latest Version](http://bit.ly/2QaL0zk){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } 
+[Download Torrent (Preferred)](http://bit.ly/2Z8fgPs){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 } 
 
 #### Download Mirrors
 
 | Status       | Server Location |Version  | TAR | ZIP |
 |:-------------|:----------------|:--|:---|:----|
-| [Collaborator](https://twitter.com/sam210723/status/1131846681916370945) | Singapore | 3.0 | [Download](http://bit.ly/2PyiZ5U) | [Download](http://bit.ly/2M8jxwW) |
+| Official | Torrent | 3.0 | [Download](http://bit.ly/2Z8fgPs) | [Download](http://bit.ly/2PFxpRA) |
 | Official | US-Central | 3.0 | [Download](http://bit.ly/2PFAAbS) | TBD |
+| [Collaborator](https://twitter.com/sam210723/status/1131846681916370945) | Singapore | 3.0 | [Download](http://bit.ly/2PyiZ5U) | [Download](http://bit.ly/2M8jxwW) |
 | [Collaborator](https://twitter.com/F5OEOEvariste) | Europe | 3.0 | [Download](http://bit.ly/2QaL0zk) | [Download](http://bit.ly/2sR5C84) |
 
 ### Installation
