@@ -48,7 +48,7 @@ Since the download file is quite large, we created a poll of mirrors to ensure t
 
 | Status       | Server Location |Version  | TAR | ZIP |
 |:-------------|:----------------|:--|:---|:----|
-| Official | Torrent | 3.0 | [Download](http://bit.ly/2Z8fgPs) | [Download](http://bit.ly/2PFxpRA) |
+| Official | Torrent | 3.0 | [Download](http://bit.ly/2Z8fgPs) | |
 | Official | US-Central | 3.0 | [Download](http://bit.ly/2PFAAbS) | TBD |
 | [Collaborator](https://twitter.com/sam210723/status/1131846681916370945) | Singapore | 3.0 | [Download](http://bit.ly/2PyiZ5U) | [Download](http://bit.ly/2M8jxwW) |
 | [Collaborator](https://twitter.com/F5OEOEvariste) | Europe | 3.0 | [Download](http://bit.ly/2QaL0zk) | [Download](http://bit.ly/2sR5C84) |
