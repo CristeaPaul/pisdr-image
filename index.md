@@ -41,7 +41,7 @@ The latest version of the PiSDR (v3.0) supports every Raspberry Pi model (Zero, 
 ### Download
 Since the download file is quite large, we created a poll of mirrors to ensure the fastest possible download. Click in the button below to be automatically redirected to the fastest mirror for you.
 
-[Download Latest Version](http://bit.ly/2PFAAbS){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } 
+[Download Latest Version](http://bit.ly/2QaL0zk){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } 
 
 #### Download Mirrors
 
@@ -49,6 +49,7 @@ Since the download file is quite large, we created a poll of mirrors to ensure t
 |:-------------|:----------------|:--|:---|:----|
 | [Collaborator](https://twitter.com/sam210723/status/1131846681916370945) | Singapore | 3.0 | [Download](http://bit.ly/2PyiZ5U) | [Download](http://bit.ly/2M8jxwW) |
 | Official | US-Central | 3.0 | [Download](http://bit.ly/2PFAAbS) | TBD |
+| [Collaborator](https://twitter.com/F5OEOEvariste) | Europe | 3.0 | [Download](http://bit.ly/2QaL0zk) | [Download](http://bit.ly/2sR5C84) |
 
 ### Installation
 The installation process is the same as the vanilla Raspbian. You will need a MicroSD card with at least 16GB of capacity. To transfer the image file to the memory card we recommend the open-source and multi-platform [balenaEtcher](https://www.balena.io/etcher/).
