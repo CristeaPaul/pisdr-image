@@ -68,7 +68,7 @@ This image can be used as a standard Raspbian desktop environment. The HDMI Outp
 To access the system with this option, you will need an SSH client. This is built-in inside the Command-Line of most operating systems (Linux, macOS and Windows 10). As a GUI alternative, we recommend using the PuTTY application available for Linux and Windows.
 
 ```bash
-$ ssh pisdr@pisdr.local
+$ ssh pi@pisdr.local
 Password: raspberry
 ```
 
