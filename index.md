@@ -51,6 +51,7 @@ Since the download file is quite large, we created a poll of mirrors to ensure t
 | Official | Torrent/Web | 3.0 | [Download](http://bit.ly/2Z8fgPs) | |
 | [Collaborator](https://twitter.com/sam210723) | Edge Deployment | 3.0 | [Download](http://bit.ly/34JASmH) | [Download](http://bit.ly/2Z9ZOCu) |
 | [Collaborator](https://twitter.com/F5OEOEvariste) | Europe | 3.0 | [Download](http://bit.ly/2QaL0zk) | [Download](http://bit.ly/2sR5C84) |
+| [Collaborator](https://twitter.com/w4www_raker) | US-East | 3.0 | [Download](http://bit.ly/39bn4oc) | |
 
 ### Installation
 The installation process is the same as the vanilla Raspbian. You will need a MicroSD card with at least 16GB of capacity. To transfer the image file to the memory card we recommend the open-source and multi-platform [balenaEtcher](https://www.balena.io/etcher/).
